@@ -1,4 +1,5 @@
 import os
+import os
 
 
 def ursula_controller_ips(hostvars, groups, controller_name='controller'):
